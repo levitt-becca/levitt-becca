@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello, I'm Becca 👋
 
-<!--
-**levitt-becca/levitt-becca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data professional transitioning from marketing to data science, with extensive experience in customer analytics, digital marketing, and statistical modeling. Currently pursuing a Master of Science in Analytics at Georgia Tech.
 
-Here are some ideas to get you started:
+## 📚 **What I Do**
+- Build predictive models and statistical analysis to drive customer acquisition and retention 
+- Develop interactive dashboards and executive reports using PowerBI, Tableau, and Salesforce  
+- Analyze large datasets with SQL, Python, and R to uncover actionable insights  
+- Lead cross-functional teams and present recommendations to executive stakeholders  
+- Optimize marketing campaigns and measure ROI through advanced analytics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Tools**
+- **Language:** SQL, Python, R  
+- **Visualization:** Tableau, Power BI  
+
+## 👋🏻 **Connect with Me**
+[LinkedIn](https://www.linkedin.com/in/beccalevitt/)
