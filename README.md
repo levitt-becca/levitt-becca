@@ -1,17 +1,18 @@
 ## Hello, I'm Becca 👋
 
-Data professional transitioning from marketing to data science, with extensive experience in customer analytics, digital marketing, and statistical modeling. Currently pursuing a Master of Science in Analytics at Georgia Tech.
+I’m a data professional and analytics-driven strategist with 10+ years of experience in customer analytics, process automation, and lifecycle marketing. I love using data to tell stories, optimize performance, and build scalable systems that drive measurable business growth. Currently pursuing a Master of Science in Analytics at Georgia Tech.
 
 ## 📚 **What I Do**
-- Build predictive models and statistical analysis to drive customer acquisition and retention 
-- Develop interactive dashboards and executive reports using PowerBI, Tableau, and Salesforce  
-- Analyze large datasets with SQL, Python, and R to uncover actionable insights  
-- Lead cross-functional teams and present recommendations to executive stakeholders  
-- Optimize marketing campaigns and measure ROI through advanced analytics  
+- Build predictive models and perform statistical analysis to uncover product, customer, and lifecycle insights that drive acquisition and retention
+- Develop interactive dashboards and performance reports in Power BI, Tableau, and Salesforce to track growth and operational KPIs
+- Analyze large, multi-source datasets using SQL, Python, and R to identify behavioral trends and revenue opportunities
+- Partner with cross-functional teams to translate analytics into strategy, informing go-to-market and product decisions
+- Measure and optimize campaign ROI, funnel efficiency, and customer lifetime value through advanced marketing analytics
 
 ## 🛠️ **Tools**
 - **Language:** SQL, Python, R  
-- **Visualization:** Tableau, Power BI  
+- **Visualization:** Tableau, Power BI
+- **Platforms:** Salesforce, dbt, GitHub, BigQuery
 
 ## 👋🏻 **Connect with Me**
 [LinkedIn](https://www.linkedin.com/in/beccalevitt/)
