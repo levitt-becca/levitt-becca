@@ -14,5 +14,9 @@ I’m a data professional and analytics-driven strategist with 10+ years of expe
 - **Visualization:** Tableau, Power BI
 - **Platforms:** Salesforce, dbt, GitHub, BigQuery
 
+## *✍️ **Sometimes I Write Things**
+- [The Metrics I Wish I'd Understood Differently][https://www.linkedin.com/pulse/marketing-metrics-i-wish-id-understood-differently-rebecca-levitt-ftwde/]
+- [Lessons from My First Year in Data Science][https://www.linkedin.com/pulse/trading-comfort-growth-lessons-from-my-first-year-data-rebecca-levitt-tsdgc/]
+
 ## 👋🏻 **Connect with Me**
 [LinkedIn](https://www.linkedin.com/in/beccalevitt/)
